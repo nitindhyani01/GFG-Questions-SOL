@@ -7,11 +7,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 2 | 1 | 1 | 0 |
-| **Total** | **2** | **1** | **1** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 | - |
+| GeeksforGeeks | 3 | 1 | 1 | 0 | 1 |
+| **Total** | **3** | **1** | **1** | **0** | **1** |
 
 ## Solved Problems
 
@@ -19,4 +19,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_TransposeOfMatrix.java) |
 | 2 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
+| 3 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
 <!-- COMMITDSA_END -->
