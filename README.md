@@ -9,7 +9,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 | - |
 | GeeksforGeeks | 10 | 3 | 5 | 0 | 2 |
 | **Total** | **10** | **3** | **5** | **0** | **2** |
 
