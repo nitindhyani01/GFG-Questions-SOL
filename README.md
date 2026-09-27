@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 17 | 4 | 9 | 2 | 2 |
-| **Total** | **17** | **4** | **9** | **2** | **2** |
+| GeeksforGeeks | 18 | 4 | 9 | 3 | 2 |
+| **Total** | **18** | **4** | **9** | **3** | **2** |
 
 ## Solved Problems
 
@@ -31,7 +31,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 12 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
 | 13 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
 | 14 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
-| 15 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
-| 16 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 17 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 15 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
+| 16 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
+| 17 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 18 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
