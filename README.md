@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 24 | 5 | 11 | 3 | 5 |
-| **Total** | **24** | **5** | **11** | **3** | **5** |
+| GeeksforGeeks | 25 | 5 | 12 | 3 | 5 |
+| **Total** | **25** | **5** | **12** | **3** | **5** |
 
 ## Solved Problems
 
@@ -33,12 +33,13 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 14 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
 | 15 | [Range GCD Queries](https://practice.geeksforgeeks.org/problems/range-gcd-queries3654/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RangeGCDQueries.java) |
 | 16 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
-| 17 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
-| 18 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
-| 19 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
-| 20 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
-| 21 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
-| 22 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 23 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 24 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 17 | [Ways to Reach Origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaysToReachOrigin.java) |
+| 18 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
+| 19 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
+| 20 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
+| 21 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
+| 22 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
+| 23 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 24 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 25 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
