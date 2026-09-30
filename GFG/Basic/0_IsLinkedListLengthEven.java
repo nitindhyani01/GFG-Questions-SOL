@@ -23,9 +23,6 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        if(count%2==0){
-            return true;
-        }
-        return false;
+        return count%2==0;
     }
 }
