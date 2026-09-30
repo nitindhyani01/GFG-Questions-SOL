@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 26 | 5 | 12 | 3 | 6 |
-| **Total** | **26** | **5** | **12** | **3** | **6** |
+| GeeksforGeeks | 27 | 5 | 12 | 3 | 7 |
+| **Total** | **27** | **5** | **12** | **3** | **7** |
 
 ## Solved Problems
 
@@ -40,7 +40,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 21 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
 | 22 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
 | 23 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 24 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 25 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 26 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 24 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
+| 25 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 26 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 27 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
