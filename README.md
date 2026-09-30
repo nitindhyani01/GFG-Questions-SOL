@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 22 | 4 | 11 | 3 | 4 |
-| **Total** | **22** | **4** | **11** | **3** | **4** |
+| GeeksforGeeks | 23 | 4 | 11 | 3 | 5 |
+| **Total** | **23** | **4** | **11** | **3** | **5** |
 
 ## Solved Problems
 
@@ -37,6 +37,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 18 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
 | 19 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
 | 20 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
-| 21 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 22 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 21 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 22 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 23 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
