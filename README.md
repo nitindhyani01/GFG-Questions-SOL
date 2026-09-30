@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 30 | 5 | 12 | 3 | 10 |
-| **Total** | **30** | **5** | **12** | **3** | **10** |
+| GeeksforGeeks | 31 | 5 | 12 | 3 | 11 |
+| **Total** | **31** | **5** | **12** | **3** | **11** |
 
 ## Solved Problems
 
@@ -40,11 +40,12 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 21 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
 | 22 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
 | 23 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 24 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 25 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
-| 26 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 27 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
-| 28 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
-| 29 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 30 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 24 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
+| 25 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 26 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
+| 27 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 28 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
+| 29 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
+| 30 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 31 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
