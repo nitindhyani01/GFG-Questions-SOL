@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 29 | 5 | 12 | 3 | 9 |
-| **Total** | **29** | **5** | **12** | **3** | **9** |
+| GeeksforGeeks | 30 | 5 | 12 | 3 | 10 |
+| **Total** | **30** | **5** | **12** | **3** | **10** |
 
 ## Solved Problems
 
@@ -44,6 +44,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 25 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
 | 26 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
 | 27 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
-| 28 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 29 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 28 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
+| 29 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 30 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
