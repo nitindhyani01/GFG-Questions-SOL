@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 31 | 5 | 12 | 3 | 11 |
-| **Total** | **31** | **5** | **12** | **3** | **11** |
+| GeeksforGeeks | 32 | 5 | 13 | 3 | 11 |
+| **Total** | **32** | **5** | **13** | **3** | **11** |
 
 ## Solved Problems
 
@@ -30,22 +30,23 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 11 | [Min Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinStepsByKnight.java) |
 | 12 | [Minimum Absolute Difference In BST](https://practice.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumAbsoluteDifferenceInBST.java) |
 | 13 | [Minimum Cost Pizza Selection](https://practice.geeksforgeeks.org/problems/pizza-mania0155/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumCostPizzaSelection.java) |
-| 14 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
-| 15 | [Range GCD Queries](https://practice.geeksforgeeks.org/problems/range-gcd-queries3654/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RangeGCDQueries.java) |
-| 16 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
-| 17 | [Ways to Reach Origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaysToReachOrigin.java) |
-| 18 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
-| 19 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
-| 20 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
-| 21 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
-| 22 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
-| 23 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 24 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
-| 25 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 26 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
-| 27 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 28 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
-| 29 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
-| 30 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 31 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 14 | [Minimum Time to Finish Project](https://practice.geeksforgeeks.org/problems/project-manager--141631/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumTimeToFinishProject.java) |
+| 15 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
+| 16 | [Range GCD Queries](https://practice.geeksforgeeks.org/problems/range-gcd-queries3654/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RangeGCDQueries.java) |
+| 17 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
+| 18 | [Ways to Reach Origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaysToReachOrigin.java) |
+| 19 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
+| 20 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
+| 21 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
+| 22 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
+| 23 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
+| 24 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 25 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
+| 26 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 27 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
+| 28 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 29 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
+| 30 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
+| 31 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 32 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
