@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 39 | 6 | 16 | 6 | 11 |
-| **Total** | **39** | **6** | **16** | **6** | **11** |
+| GeeksforGeeks | 40 | 7 | 16 | 6 | 11 |
+| **Total** | **40** | **7** | **16** | **6** | **11** |
 
 ## Solved Problems
 
@@ -19,41 +19,42 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Check Sorted Array](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_CheckSortedArray.java) |
 | 2 | [Dominant Pairs](https://practice.geeksforgeeks.org/problems/dominant-pairs/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_DominantPairs.java) |
-| 3 | [Missing in Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MissingInArray.java) |
-| 4 | [Perimeter of Shapes in Binary Matrix](https://practice.geeksforgeeks.org/problems/find-perimeter-of-shapes/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_PerimeterOfShapesInBinaryMatrix.java) |
-| 5 | [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_TransposeOfMatrix.java) |
-| 6 | [Visit Leaves with Budget](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_VisitLeavesWithBudget.java) |
-| 7 | [Check Level Anagrams in Binary Trees](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CheckLevelAnagramsInBinaryTrees.java) |
-| 8 | [Coils in Matrix](https://practice.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CoilsInMatrix.java) |
-| 9 | [Largest Subsquare Surrounded by X](https://practice.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LargestSubsquareSurroundedByX.java) |
-| 10 | [Longest Matching in Dictionary with Removals](https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestMatchingInDictionaryWithRemovals.java) |
-| 11 | [Maximum Frequency with K Increments](https://practice.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MaximumFrequencyWithKIncrements.java) |
-| 12 | [Min Cost To Make Two Strings Identical](https://practice.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinCostToMakeTwoStringsIdentical.java) |
-| 13 | [Min Edge Reversals for Path](https://practice.geeksforgeeks.org/problems/minimum-edges/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinEdgeReversalsForPath.java) |
-| 14 | [Min Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinStepsByKnight.java) |
-| 15 | [Minimum Absolute Difference In BST](https://practice.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumAbsoluteDifferenceInBST.java) |
-| 16 | [Minimum Cost Pizza Selection](https://practice.geeksforgeeks.org/problems/pizza-mania0155/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumCostPizzaSelection.java) |
-| 17 | [Minimum Time to Finish Project](https://practice.geeksforgeeks.org/problems/project-manager--141631/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumTimeToFinishProject.java) |
-| 18 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
-| 19 | [Range GCD Queries](https://practice.geeksforgeeks.org/problems/range-gcd-queries3654/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RangeGCDQueries.java) |
-| 20 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
-| 21 | [Ways to Reach Origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaysToReachOrigin.java) |
-| 22 | [Your Social Network](https://practice.geeksforgeeks.org/problems/your-social-network0328/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_YourSocialNetwork.java) |
-| 23 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
-| 24 | [Lexicographically Smallest Rotation](https://practice.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LexicographicallySmallestRotation.java) |
-| 25 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
-| 26 | [Longest Increasing Path in Matrix](https://practice.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestIncreasingPathInMatrix.java) |
-| 27 | [Max Path Sum Between Two Leaves](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaxPathSumBetweenTwoLeaves.java) |
-| 28 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
-| 29 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
-| 30 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
-| 31 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 32 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
-| 33 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 34 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
-| 35 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 36 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
-| 37 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
-| 38 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 39 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
+| 3 | [Minimum Operations to Reach n](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MinimumOperationsToReachN.java) |
+| 4 | [Missing in Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MissingInArray.java) |
+| 5 | [Perimeter of Shapes in Binary Matrix](https://practice.geeksforgeeks.org/problems/find-perimeter-of-shapes/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_PerimeterOfShapesInBinaryMatrix.java) |
+| 6 | [Transpose of Matrix](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_TransposeOfMatrix.java) |
+| 7 | [Visit Leaves with Budget](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_VisitLeavesWithBudget.java) |
+| 8 | [Check Level Anagrams in Binary Trees](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CheckLevelAnagramsInBinaryTrees.java) |
+| 9 | [Coils in Matrix](https://practice.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CoilsInMatrix.java) |
+| 10 | [Largest Subsquare Surrounded by X](https://practice.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LargestSubsquareSurroundedByX.java) |
+| 11 | [Longest Matching in Dictionary with Removals](https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestMatchingInDictionaryWithRemovals.java) |
+| 12 | [Maximum Frequency with K Increments](https://practice.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MaximumFrequencyWithKIncrements.java) |
+| 13 | [Min Cost To Make Two Strings Identical](https://practice.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinCostToMakeTwoStringsIdentical.java) |
+| 14 | [Min Edge Reversals for Path](https://practice.geeksforgeeks.org/problems/minimum-edges/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinEdgeReversalsForPath.java) |
+| 15 | [Min Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinStepsByKnight.java) |
+| 16 | [Minimum Absolute Difference In BST](https://practice.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumAbsoluteDifferenceInBST.java) |
+| 17 | [Minimum Cost Pizza Selection](https://practice.geeksforgeeks.org/problems/pizza-mania0155/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumCostPizzaSelection.java) |
+| 18 | [Minimum Time to Finish Project](https://practice.geeksforgeeks.org/problems/project-manager--141631/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MinimumTimeToFinishProject.java) |
+| 19 | [Pyramid Array with Reduce Operations](https://practice.geeksforgeeks.org/problems/pyramid-form3044/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PyramidArrayWithReduceOperations.java) |
+| 20 | [Range GCD Queries](https://practice.geeksforgeeks.org/problems/range-gcd-queries3654/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RangeGCDQueries.java) |
+| 21 | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ReverseAStack.java) |
+| 22 | [Ways to Reach Origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaysToReachOrigin.java) |
+| 23 | [Your Social Network](https://practice.geeksforgeeks.org/problems/your-social-network0328/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_YourSocialNetwork.java) |
+| 24 | [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BoxStacking.java) |
+| 25 | [Lexicographically Smallest Rotation](https://practice.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LexicographicallySmallestRotation.java) |
+| 26 | [Longest Colored Path](https://practice.geeksforgeeks.org/problems/longest-colored-path--151454/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestColoredPath.java) |
+| 27 | [Longest Increasing Path in Matrix](https://practice.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_LongestIncreasingPathInMatrix.java) |
+| 28 | [Max Path Sum Between Two Leaves](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaxPathSumBetweenTwoLeaves.java) |
+| 29 | [Maximum Height Disc Stack](https://practice.geeksforgeeks.org/problems/stacking-up-discs1315/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MaximumHeightDiscStack.java) |
+| 30 | [Alternates in Array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternatesInArray.java) |
+| 31 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
+| 32 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 33 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
+| 34 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 35 | [Length of Linked List](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfLinkedList.java) |
+| 36 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 37 | [Print Linked List](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PrintLinkedList.java) |
+| 38 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SearchInLinkedList.java) |
+| 39 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 40 | [While Loop](https://practice.geeksforgeeks.org/problems/while-loop/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_WhileLoop.java) |
 <!-- COMMITDSA_END -->
